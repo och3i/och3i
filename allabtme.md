@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning php
 - 📫 just email me at rochellebobisgalpao@gmail.com
-- ⚡ Fun fact: im pansex 
+- ⚡ Fun fact: there is no place like 127.0.0.1
 
 <!---
 och3i/och3i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
